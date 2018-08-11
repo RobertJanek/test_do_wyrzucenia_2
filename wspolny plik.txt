@@ -1,2 +1,5 @@
-dodanie linijki tekstu z notatnika. Git czuwa nad zmianami...
+﻿dodanie linijki tekstu z notatnika. Git czuwa nad zmianami...
 w githubie.com edytuję online (np. z komórki)
+1.dodaję kolejną linijkę.
+2.dodaję kolejną linijkę.
+3.dodaję kolejną linijkę.
