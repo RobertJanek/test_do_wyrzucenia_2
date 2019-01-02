@@ -4,3 +4,4 @@ w githubie.com edytuję online (np. z komórki)
 3.dodaję kolejną linijkę.
 a teraz w VS 2017
 5. nowa linijka w VS 2017, teraz VS będzie synchronizował i commitował.
+6. dopisuję w www, z komputera
